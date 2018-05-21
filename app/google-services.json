@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "387978179328",
+    "firebase_url": "https://calllog-73bb1.firebaseio.com",
+    "project_id": "calllog-73bb1",
+    "storage_bucket": "calllog-73bb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387978179328:android:852627aa984c2fcc",
+        "android_client_info": {
+          "package_name": "com.example.betsysanchez.a58_provedordecontenidos_calllog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387978179328-e46qpr95bn0e31hjv2bdnvm3r1jodsi6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.betsysanchez.a58_provedordecontenidos_calllog",
+            "certificate_hash": "0c7d8971bff07355bcd35fb624d8aaf7958d951e"
+          }
+        },
+        {
+          "client_id": "387978179328-o1k3ac84haeedglp5gf54k86lvhe8i9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmlzyAp0qgFW2aZpDI47YOHGl0CfZ0fGs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387978179328-o1k3ac84haeedglp5gf54k86lvhe8i9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
